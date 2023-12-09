@@ -1406,6 +1406,7 @@ p {
 }
 .single-pricing .pricing-body .pricing-list {
   padding-top: 30px;
+  font-weight: bold;
 }
 .single-pricing .pricing-body .pricing-list ul li {
   line-height: 36px;
