@@ -427,3 +427,8 @@ img.mfp-img {
   max-width: 500px;
   margin: 20px auto;
 }
+
+.popup-icon {
+  font-size: 48px;
+  color: #004aad;
+}
